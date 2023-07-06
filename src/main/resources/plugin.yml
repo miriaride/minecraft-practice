@@ -1,0 +1,4 @@
+name: PluginSample
+version: '${version}'
+main: plugin.pluginsample.PluginSample
+api-version: '1.20'
